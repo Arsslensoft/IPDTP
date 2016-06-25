@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPDTPLib", "IPDTPLib\IPDTPLib.csproj", "{B7712B0B-0A55-4C35-89A5-6E42C08BBCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPDTP.IPC", "AppModule.InterProcessComm\IPDTP.IPC.csproj", "{E98F1F7E-40B6-44C8-AC66-EC867B141FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPDTP.Client", "IPDTP.Client\IPDTP.Client.csproj", "{671D323D-7502-4E46-A8A3-E91F0A6A83B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIENTA", "CLIENTA\CLIENTA.csproj", "{70B7B6E4-2723-4E9E-99F1-ACDA8D20443E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIENT", "CLIENT\CLIENT.csproj", "{C412E489-5036-4442-8639-5D255F05A858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPDTPApp", "IPDTPApp\IPDTPApp.csproj", "{78B5341B-1691-4A4D-BD79-02F5DCD76C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7712B0B-0A55-4C35-89A5-6E42C08BBCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7712B0B-0A55-4C35-89A5-6E42C08BBCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7712B0B-0A55-4C35-89A5-6E42C08BBCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7712B0B-0A55-4C35-89A5-6E42C08BBCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98F1F7E-40B6-44C8-AC66-EC867B141FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98F1F7E-40B6-44C8-AC66-EC867B141FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98F1F7E-40B6-44C8-AC66-EC867B141FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98F1F7E-40B6-44C8-AC66-EC867B141FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671D323D-7502-4E46-A8A3-E91F0A6A83B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671D323D-7502-4E46-A8A3-E91F0A6A83B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671D323D-7502-4E46-A8A3-E91F0A6A83B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671D323D-7502-4E46-A8A3-E91F0A6A83B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B7B6E4-2723-4E9E-99F1-ACDA8D20443E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B7B6E4-2723-4E9E-99F1-ACDA8D20443E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B7B6E4-2723-4E9E-99F1-ACDA8D20443E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B7B6E4-2723-4E9E-99F1-ACDA8D20443E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C412E489-5036-4442-8639-5D255F05A858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C412E489-5036-4442-8639-5D255F05A858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C412E489-5036-4442-8639-5D255F05A858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C412E489-5036-4442-8639-5D255F05A858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B5341B-1691-4A4D-BD79-02F5DCD76C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B5341B-1691-4A4D-BD79-02F5DCD76C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B5341B-1691-4A4D-BD79-02F5DCD76C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B5341B-1691-4A4D-BD79-02F5DCD76C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

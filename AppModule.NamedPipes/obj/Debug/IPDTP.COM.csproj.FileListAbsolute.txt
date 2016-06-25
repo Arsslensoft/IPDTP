@@ -1,0 +1,9 @@
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Debug\AppModule.NamedPipes.dll
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Debug\AppModule.NamedPipes.pdb
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Debug\AppModule.NamedPipes.xml
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Debug\AppModule.InterProcessComm.dll
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Debug\AppModule.InterProcessComm.pdb
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Debug\AppModule.InterProcessComm.xml
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\obj\Debug\AppModule.NamedPipes.dll
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\obj\Debug\AppModule.NamedPipes.pdb

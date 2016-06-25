@@ -1,0 +1,12 @@
+D:\Projects\IPDTP\IPDTP\CLIENT\bin\Debug\CLIENT.exe
+D:\Projects\IPDTP\IPDTP\CLIENT\bin\Debug\CLIENT.pdb
+D:\Projects\IPDTP\IPDTP\CLIENT\bin\Debug\IPDTP.Client.dll
+D:\Projects\IPDTP\IPDTP\CLIENT\bin\Debug\IPDTP.Client.pdb
+D:\Projects\IPDTP\IPDTP\CLIENT\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\CLIENT\obj\Debug\CLIENT.Form1.resources
+D:\Projects\IPDTP\IPDTP\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+D:\Projects\IPDTP\IPDTP\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.Cache
+D:\Projects\IPDTP\IPDTP\CLIENT\obj\Debug\CLIENT.exe
+D:\Projects\IPDTP\IPDTP\CLIENT\obj\Debug\CLIENT.pdb
+D:\Projects\IPDTP\IPDTP\CLIENT\bin\Debug\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\CLIENT\bin\Debug\IPDTP.IPC.pdb

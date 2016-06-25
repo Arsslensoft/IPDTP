@@ -1,0 +1,12 @@
+D:\Projects\IPDTP\IPDTP\CLIENTA\bin\Debug\CLIENTA.exe
+D:\Projects\IPDTP\IPDTP\CLIENTA\bin\Debug\CLIENTA.pdb
+D:\Projects\IPDTP\IPDTP\CLIENTA\bin\Debug\IPDTP.Client.dll
+D:\Projects\IPDTP\IPDTP\CLIENTA\bin\Debug\IPDTP.Client.pdb
+D:\Projects\IPDTP\IPDTP\CLIENTA\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\CLIENTA\obj\Debug\CLIENTA.Form1.resources
+D:\Projects\IPDTP\IPDTP\CLIENTA\obj\Debug\CLIENTA.Properties.Resources.resources
+D:\Projects\IPDTP\IPDTP\CLIENTA\obj\Debug\CLIENTA.csproj.GenerateResource.Cache
+D:\Projects\IPDTP\IPDTP\CLIENTA\obj\Debug\CLIENTA.exe
+D:\Projects\IPDTP\IPDTP\CLIENTA\obj\Debug\CLIENTA.pdb
+D:\Projects\IPDTP\IPDTP\CLIENTA\bin\Debug\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\CLIENTA\bin\Debug\IPDTP.IPC.pdb

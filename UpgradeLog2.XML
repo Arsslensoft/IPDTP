@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IPDTP">
+</Property><Property Name="Fichier solution" Value="D:\Projects\IPDTP\IPDTP\IPDTP.sln">
+</Property><Property Name="Date" Value="lundi 12 décembre 2011">
+</Property><Property Name="Time" Value="19:38:11">
+</Property><Property Name="Numéro de journal" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="AppModule.InterProcessComm" Source="AppModule.InterProcessComm\AppModule.InterProcessComm.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="AppModule.InterProcessComm" Source="AppModule.InterProcessComm\AppModule.InterProcessComm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AppModule.InterProcessComm" Source="AppModule.InterProcessComm\AppModule.InterProcessComm.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

@@ -1,0 +1,297 @@
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------
+La clé donnée était absente du dictionnaire.
+   à System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   à IPDTPConsole.Program.AppClient_PacketReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTPConsole\Program.cs:ligne 39
+   à IPDTP.Client.AppClient.OnReceived(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\AppClient.cs:ligne 129
+   à IPDTP.Client.PipeManager.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\PipeManager.cs:ligne 55
+   à IPDTP.Client.ServerNamedPipe.OnPR(PacketReceivedArgs e) dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 31
+   à IPDTP.Client.ServerNamedPipe.PipeListener() dans e:\Research\IPDTP\IPDTP\IPDTP.Client\ServerNamedPipe.cs:ligne 44
+mscorlib
+---------------------------------------------------

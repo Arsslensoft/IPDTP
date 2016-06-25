@@ -1,0 +1,11 @@
+D:\Projects\IPDTP\IPDTP\IPDTP\bin\Release\IPDTP.exe
+D:\Projects\IPDTP\IPDTP\IPDTP\bin\Release\IPDTP.pdb
+D:\Projects\IPDTP\IPDTP\IPDTP\bin\Release\IPDTPLib.dll
+D:\Projects\IPDTP\IPDTP\IPDTP\bin\Release\IPDTPLib.pdb
+D:\Projects\IPDTP\IPDTP\IPDTP\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\IPDTP\obj\Release\IPDTP.exe
+D:\Projects\IPDTP\IPDTP\IPDTP\obj\Release\IPDTP.pdb
+D:\Projects\IPDTP\IPDTP\IPDTP\bin\Release\IPDTP.COM.dll
+D:\Projects\IPDTP\IPDTP\IPDTP\bin\Release\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\Release\IPDTP.exe
+D:\Projects\IPDTP\IPDTP\Release\IPDTP.pdb

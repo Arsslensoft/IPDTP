@@ -1,0 +1,16 @@
+D:\Projects\IPDTP\IPDTP\Release\IPDTPApp.exe
+D:\Projects\IPDTP\IPDTP\Release\IPDTPApp.pdb
+D:\Projects\IPDTP\IPDTP\IPDTPApp\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.Form1.resources
+D:\Projects\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.Properties.Resources.resources
+D:\Projects\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.csproj.GenerateResource.Cache
+D:\Projects\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.exe
+D:\Projects\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.pdb
+E:\Research\IPDTP\IPDTP\Release\IPDTPApp.exe
+E:\Research\IPDTP\IPDTP\Release\IPDTPApp.pdb
+E:\Research\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.csprojResolveAssemblyReference.cache
+E:\Research\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.Form1.resources
+E:\Research\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.Properties.Resources.resources
+E:\Research\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.csproj.GenerateResource.Cache
+E:\Research\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.exe
+E:\Research\IPDTP\IPDTP\IPDTPApp\obj\Release\IPDTPApp.pdb

@@ -1,0 +1,14 @@
+D:\Projects\IPDTP\IPDTP\IPDTP.Client\bin\Release\IPDTP.Client.dll
+D:\Projects\IPDTP\IPDTP\IPDTP.Client\bin\Release\IPDTP.Client.pdb
+D:\Projects\IPDTP\IPDTP\IPDTP.Client\bin\Release\IPDTP.COM.dll
+D:\Projects\IPDTP\IPDTP\IPDTP.Client\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\IPDTP.Client\obj\Release\IPDTP.Client.dll
+D:\Projects\IPDTP\IPDTP\IPDTP.Client\obj\Release\IPDTP.Client.pdb
+D:\Projects\IPDTP\IPDTP\IPDTP.Client\bin\Release\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\Release\IPDTP.Client.dll
+D:\Projects\IPDTP\IPDTP\Release\IPDTP.Client.pdb
+E:\Research\IPDTP\IPDTP\IPDTP.Client\obj\Release\IPDTP.Client.csprojResolveAssemblyReference.cache
+E:\Research\IPDTP\IPDTP\IPDTP.Client\obj\Release\IPDTP.Client.dll
+E:\Research\IPDTP\IPDTP\IPDTP.Client\obj\Release\IPDTP.Client.pdb
+E:\Research\IPDTP\IPDTP\Release\IPDTP.Client.dll
+E:\Research\IPDTP\IPDTP\Release\IPDTP.Client.pdb

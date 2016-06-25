@@ -1,0 +1,5 @@
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Release\IPDTP.COM.dll
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\obj\Release\IPDTP.COM.dll
+D:\Projects\IPDTP\IPDTP\AppModule.NamedPipes\bin\Release\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\Release\IPDTP.COM.dll

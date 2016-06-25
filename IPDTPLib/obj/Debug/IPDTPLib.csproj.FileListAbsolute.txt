@@ -1,0 +1,9 @@
+D:\Projects\IPDTP\IPDTP\IPDTPLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\IPDTPLib\bin\Debug\IPDTPLib.dll
+D:\Projects\IPDTP\IPDTP\IPDTPLib\bin\Debug\IPDTPLib.pdb
+D:\Projects\IPDTP\IPDTP\IPDTPLib\obj\Debug\IPDTPLib.dll
+D:\Projects\IPDTP\IPDTP\IPDTPLib\obj\Debug\IPDTPLib.pdb
+D:\Projects\IPDTP\IPDTP\IPDTPLib\obj\Debug\IPDTPLib.Properties.Resources.resources
+D:\Projects\IPDTP\IPDTP\IPDTPLib\obj\Debug\IPDTPLib.csproj.GenerateResource.Cache
+D:\Projects\IPDTP\IPDTP\IPDTPLib\bin\Debug\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\IPDTPLib\bin\Debug\IPDTP.IPC.pdb

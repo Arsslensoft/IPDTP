@@ -1,0 +1,8 @@
+E:\Research\IPDTP\IPDTP\IPDTPConsole\bin\Release\IPDTPConsole.exe
+E:\Research\IPDTP\IPDTP\IPDTPConsole\bin\Release\IPDTPConsole.pdb
+E:\Research\IPDTP\IPDTP\IPDTPConsole\bin\Release\IPDTP.Client.dll
+E:\Research\IPDTP\IPDTP\IPDTPConsole\bin\Release\IPDTP.IPC.dll
+E:\Research\IPDTP\IPDTP\IPDTPConsole\bin\Release\IPDTP.Client.pdb
+E:\Research\IPDTP\IPDTP\IPDTPConsole\obj\Release\IPDTPConsole.csprojResolveAssemblyReference.cache
+E:\Research\IPDTP\IPDTP\IPDTPConsole\obj\Release\IPDTPConsole.exe
+E:\Research\IPDTP\IPDTP\IPDTPConsole\obj\Release\IPDTPConsole.pdb

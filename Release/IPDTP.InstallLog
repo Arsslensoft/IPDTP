@@ -1,0 +1,23 @@
+﻿Installation de l'assembly 'D:\Projects\IPDTP\IPDTP\Release\IPDTP.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   assemblypath = D:\Projects\IPDTP\IPDTP\Release\IPDTP.exe
+   i = 
+   logfile = D:\Projects\IPDTP\IPDTP\Release\IPDTP.InstallLog
+Installation du service IPDTPService en cours...
+Le service IPDTPService a été installé avec succès.
+Création d'une source EventLog IPDTPService dans le journal Application...
+Validation de l'assembly 'D:\Projects\IPDTP\IPDTP\Release\IPDTP.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   assemblypath = D:\Projects\IPDTP\IPDTP\Release\IPDTP.exe
+   i = 
+   logfile = D:\Projects\IPDTP\IPDTP\Release\IPDTP.InstallLog
+Désinstallation de l'assembly 'D:\Projects\IPDTP\IPDTP\Release\IPDTP.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   assemblypath = D:\Projects\IPDTP\IPDTP\Release\IPDTP.exe
+   logfile = D:\Projects\IPDTP\IPDTP\Release\IPDTP.InstallLog
+Suppression de la source EventLog IPDTPService.
+Le service IPDTPService est en cours de suppression du système...
+Le service IPDTPService a été retiré avec succès du système.

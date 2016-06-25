@@ -1,0 +1,5 @@
+D:\Projects\IPDTP\IPDTP\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\IPDTP\IPDTP\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\IPDTP\IPDTP\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\IPDTP\IPDTP\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

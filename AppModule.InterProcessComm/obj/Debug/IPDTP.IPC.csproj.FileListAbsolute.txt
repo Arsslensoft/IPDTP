@@ -1,0 +1,6 @@
+D:\Projects\IPDTP\IPDTP\AppModule.InterProcessComm\bin\Debug\AppModule.InterProcessComm.xml
+D:\Projects\IPDTP\IPDTP\AppModule.InterProcessComm\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IPDTP\IPDTP\AppModule.InterProcessComm\bin\Debug\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\AppModule.InterProcessComm\bin\Debug\IPDTP.IPC.pdb
+D:\Projects\IPDTP\IPDTP\AppModule.InterProcessComm\obj\Debug\IPDTP.IPC.dll
+D:\Projects\IPDTP\IPDTP\AppModule.InterProcessComm\obj\Debug\IPDTP.IPC.pdb
